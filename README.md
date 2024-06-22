@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>](https://blog.naver.com/netboy0524) [<img src="https://img.shields.io/badge/GitBlog-gray?style=flat&logo=Github&logoColor=white"/>](https://sangmin2ya.github.io/) [<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat&logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCqRp5hrV5_v4pprmh1tdOTw)
 [<img src="https://img.shields.io/badge/Steam-darkgray?style=flat&logo=Steam&logoColor=white"/>](https://steamcommunity.com/profiles/76561198111313786/)
 
-**I'm a Game Client Developer and interested in Game / Art / TA**
 </div>
 
 <br>
@@ -42,11 +41,11 @@ Here are some ideas to get you started:
 > **2024.02 ~ 2024.07**
 > <br>Inha Univ. Media AI LAB
 >
-> **2024.07~2024.07**
-> <br>[재밌넥] NEXON 대학생 게임잼
-> 
 > **2024.07 ~ 2024.12**
-> <br>KRAFTON Jungle GameLab 2기
+> <br>KRAFTON Jungle GameLab 2기 (예정)
+> 
+<!-- > **2024.07~2024.07**
+> <br>[재밌넥] NEXON 대학생 게임잼 -->
 
 ### TECH STACK 
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity"/> <img src="https://img.shields.io/badge/Unreal-%230E1128?style=flat-square&logo=Unrealengine"/> <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B"/> <img src="https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=C%23"/> <img src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github"/>
