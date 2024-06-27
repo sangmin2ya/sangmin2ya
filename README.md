@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> 🌱 Junior Game Client Developer 🎮 / Artist 🎨 </h3>
 
-[<img src="https://media.discordapp.net/attachments/1033682108897562637/1252998240652103690/image.png?ex=6678358c&is=6676e40c&hm=c4e818a91f120299a970f7b1625dab736a0c6f339cdaaa79416773a66f50fd85&=&format=webp&quality=lossless&width=956&height=555" alt="drawing" width="60%"/>](https://sangmin2ya.github.io/)<br>
+[<img src="https://postfiles.pstatic.net/MjAyNDA2MjdfMjMy/MDAxNzE5NDIyNDU2Nzky.irSygEV7XBIY-eAc4JkQKEOxnh4hvqlQms2tVBtyBZQg.Lo9OmCCb_4oxVY73bXbuMpI7bPYM4pTgr-vTiCJg0G4g.PNG/image.png?type=w2000" alt="drawing" width="60%"/>](https://sangmin2ya.github.io/)<br>
 
 [<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>](https://blog.naver.com/netboy0524) [<img src="https://img.shields.io/badge/GitBlog-gray?style=flat&logo=Github&logoColor=white"/>](https://sangmin2ya.github.io/) [<img src="https://img.shields.io/badge/Youtube-ED1C40?style=flat&logo=Youtube&logoColor=white"/>](https://www.youtube.com/channel/UCqRp5hrV5_v4pprmh1tdOTw)
 [<img src="https://img.shields.io/badge/Steam-darkgray?style=flat&logo=Steam&logoColor=white"/>](https://steamcommunity.com/profiles/76561198111313786/)
