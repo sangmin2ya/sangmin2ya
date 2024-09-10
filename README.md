@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 > **2024.07 ~ 2024.12**
 > <br>KRAFTON Jungle GameLab 2기 (진행중)
 > 
-<!-- > **2024.07~2024.07**
-> <br>[재밌넥] NEXON 대학생 게임잼 -->
 
 ### TECH STACK 
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity"/> <img src="https://img.shields.io/badge/Unreal-%230E1128?style=flat-square&logo=Unrealengine"/> <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B"/> <img src="https://img.shields.io/badge/C%23-%23512BD4?style=flat-square&logo=C%23"/> <img src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github"/>
