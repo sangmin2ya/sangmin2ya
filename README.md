@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 > <br>Inha Univ. Media AI LAB
 >
 > **2024.07 ~ 2024.12**
-> <br>KRAFTON Jungle GameLab 2기 (진행중)
+> <br>KRAFTON Jungle GameLab 2기
 > 
 
 ### TECH STACK 
